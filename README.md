@@ -302,6 +302,11 @@ Frontend uses **Bootstrap 5.3** and **Bootstrap Icons 1.11** via CDN — no npm 
 - The `ModelInference` client is initialized **once at startup** — no credentials are re-read per request
 
 ---
+## 👨‍💻 Developer
+
+**Biraj Kushwaha**
+
+---
 
 ## 📄 License
 
