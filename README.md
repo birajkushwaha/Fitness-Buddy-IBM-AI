@@ -1,4 +1,5 @@
 # 🏋️ Fitness Buddy AI — IBM watsonx.ai Powered Personal Trainer
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=vercel)](https://fitness-buddy-ibm-ai.vercel.app/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
